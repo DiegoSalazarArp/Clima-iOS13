@@ -1,4 +1,4 @@
-#Clima#
+# Clima #
 
 ex: App que muestra la temperatura de país, ciudad, etc, consultando a la API de "OpenWeatherMap", y también mediante las coordenadas actuales del dispositivo.
 
